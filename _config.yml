@@ -10,10 +10,7 @@ baseurl: ""
 url: "" 
 
 # Build settings
-theme: minima
-
-url: https://merszym.github.io
-base_url: /parkour-de
+theme: jekyll-theme-minima
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
