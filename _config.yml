@@ -1,1 +1,15 @@
-theme: jekyll-theme-cayman
+
+title: Parkour Deutschland
+email: parkour@twio-x.de
+author: Merlin Szymanski
+description: >- # this means to ignore newlines until "baseurl:"
+  Wir sind eine Initiative zur Gründung eines Parkour Dachverbandes in Deutschland.
+  Dieser soll die Interessen der Parkourszene vertreten und eine Plattform für alle 
+  Interessierten sein. Mach mit!
+baseurl: "" 
+url: "" 
+
+# Build settings
+theme: minima
+
+
