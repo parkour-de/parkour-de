@@ -50,6 +50,9 @@ Gründungsinitiative. Im Vorfeld hat David Fragen erhalten, auf welche er einzel
     darf. Die Größe des Vorstandes richtet sich nach Anzahl aktiver Mitglieder.
     Unternehmen haben lediglich eine Stimme und damit ein ausgewogenes Stimmgewicht beim Verbandstag.
 
+    ![Struktur des DCSV](/assets/images/20220611_dcsv_structure.png)
+
+
 2. Wer hat den Verband gegründet? Wie wurde die Community beteiligt?
 
     Laut David erfolgte die Gründung des Verbands aus der Not heraus in einer Stadt. David betont, dass die bundesweite
