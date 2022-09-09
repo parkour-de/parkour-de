@@ -57,6 +57,7 @@ Innerhalb der Szene ist der Verband ganz dem Ziel verpflichtet, das Selbstverst�
     - Trainerlizenzen ausarbeiten und anbieten
     - Diskussionen zur Zukunft des Sports und über den Sinn oder Unsinn von Strukturen (z.B. jedes unserer Verbandstreffen)
 
+
 3. Förderung von Vereinen/Gruppen
 
     Als Dachverband vernetzen wir Gruppen, die anderen Gruppen helfen. Sei es bei der Gründung von Vereinen, bei der Starthilfe in Form von Expertise und finanzieller Förderung gegeben werden kann oder bei der Organisation von Man- und Womanpower bei Workshops, Shows, Messen, Sportgeräten, bei denen zwischen den Mitgliedern vermittelt werden kann.
