@@ -1,12 +1,12 @@
 
-title: Parkour Deutschland
+title: Initiative Parkour Deutschland
 email: parkour@twio-x.de
-author: Merlin Szymanski
+author: Twio X e.V. Leipzig
+
 description: >- # this means to ignore newlines until "baseurl:"
   Wir sind eine Initiative zur Gründung eines Parkour Dachverbandes in Deutschland.
   Dieser soll die Interessen der Parkourszene vertreten und eine Plattform für alle 
-  Interessierten sein. Mach mit!
-
+  Traceure sein.
 
 # Build settings
 theme: minima
