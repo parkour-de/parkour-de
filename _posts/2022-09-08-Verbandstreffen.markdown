@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ausarbeitung der Leitlinien"
+title:  "4. Treffen: Leitlinien und PR"
 date:   2022-09-07 18:00:00 +0200
 categories: verbandstreffen
 ---

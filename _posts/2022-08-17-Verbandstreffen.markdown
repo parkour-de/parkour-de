@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "3. Verbandstreffen"
+title:  "3. Treffen: Die Technik"
 date:   2022-08-17 18:00:00 +0200
 categories: verbandstreffen
 ---

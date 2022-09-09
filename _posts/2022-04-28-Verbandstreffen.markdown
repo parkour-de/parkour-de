@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "1. Kennenlernen"
+title:  "1. Treffen: Kennenlernen"
 date:   2022-04-28 18:00:00 +0200
 categories: verbandstreffen
 ---

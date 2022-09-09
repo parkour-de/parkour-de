@@ -17,7 +17,6 @@ Wir hatten den Präsidenten des DCSV als Gast um uns von seinen Erfahrungen eine
 **TOP 3** Nächste Termine | Deadlines
 
 **Zu TOP 1:**\
-
 Chris Konushevci umreißt kurz die Verbindung zum DCSV (Deutscher Calisthenics und Streetlifting Verband e.V.). Er hat
 den Gründungsprozess mitbegleitet. Auf seine Einladung ist als Gast der Präsident des DCSV David Gwizdz erschienen.
 Nach einer kurzen Vorstellungsrunde der Teilnehmenden stellt sich auch David Gwizdz vor. Er begrüß die
@@ -92,6 +91,7 @@ Gründungsinitiative. Im Vorfeld hat David Fragen erhalten, auf welche er einzel
     einzelnen Arbeitsgruppen noch einmal diskutiert werden.
 
 5. Muss der Verband Mitglied im DOSB sein?
+
     Laut David ist das keine Voraussetzung. Der DCSV ist (noch) kein Mitglied im DOSB. Die Grundvoraussetzungen sind die
     größte Hürde (min. 10.000 Mitglieder in 8 Bundesländern -> 8 Verbände). Man sollte im Vorfeld klären, ob es Vorteile
     bringt. Auf lange Sicht wäre eine Vernetzung mit anderen Verbänden („Randsportarten“) sinnvoll. Das ist zum jetzigen
