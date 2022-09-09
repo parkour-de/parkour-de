@@ -6,7 +6,7 @@ categories: verbandstreffen
 ---
 ### Notizen 
 
-** Aufgrund von technischen Problemen wurde das Treffen verfrüht beendet **
+**Aufgrund von technischen Problemen wurde das Treffen verfrüht beendet**
 
 Das heutige Treffen sollte vor Allem der Frage dienen, wie es konkret weitergeht. Unser Plan war es, dass
 Ideen für die Satzung gesammelt werden und wir dann in kleineren Gruppen in eine intensive und produktive Arbeit gehen
