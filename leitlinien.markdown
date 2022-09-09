@@ -50,12 +50,12 @@ Innerhalb der Szene ist der Verband ganz dem Ziel verpflichtet, das Selbstverst�
 
     Der Verband fördert die Vernetzung der Szene auf vielfältige Weise. Beispiele dafür sind
 
-- Der aktuelle Kalender für Jams und Workshops, in welchem Gruppen auf ihre Veranstaltungen hinweisen können
-- Selbst organisierte Jams
-- Eine aktuelle und deutschlandweite Spotmap 
-- Eine Plattform zum Austausch  
-- Trainerlizenzen ausarbeiten und anbieten
-- Diskussionen zur Zukunft des Sports und über den Sinn oder Unsinn von Strukturen (z.B. jedes unserer Verbandstreffen)
+    - Der aktuelle Kalender für Jams und Workshops, in welchem Gruppen auf ihre Veranstaltungen hinweisen können
+    - Selbst organisierte Jams
+    - Eine aktuelle und deutschlandweite Spotmap 
+    - Eine Plattform zum Austausch  
+    - Trainerlizenzen ausarbeiten und anbieten
+    - Diskussionen zur Zukunft des Sports und über den Sinn oder Unsinn von Strukturen (z.B. jedes unserer Verbandstreffen)
 
 3. Förderung von Vereinen/Gruppen
 
