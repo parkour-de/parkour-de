@@ -20,11 +20,11 @@ aktuell übernehmen wir aus Leipzig die Organisation der Treffen und die Dokumen
 
 
 <!-- Begin Mailchimp Signup Form -->
+<link href="/docs/assets/style/mailchimp.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:600px;}
-	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
+
 <div id="mc_embed_signup">
     <form action="https://parkour-deutschland.us11.list-manage.com/subscribe/post?u=166dcc54a4859d60ff748a36c&amp;id=a2449a4ef0&amp;f_id=003b97e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div id="mc_embed_signup_scroll">
