@@ -1,14 +1,11 @@
-
 title: Initiative Parkour Deutschland
-email: parkour@twio-x.de
-author: Twio X e.V. Leipzig
+email: parkour@twio-x.de, info@parkour-erfurt.de
+author: Initiative Parkour Deutschland
 
 description: >- # this means to ignore newlines until "baseurl:"
   Wir sind eine Initiative zur Gründung eines Parkour Dachverbandes in Deutschland.
-  Dieser soll die Interessen der Parkourszene vertreten und eine Plattform für alle 
+  Dieser soll die Interessen der Parkourszene vertreten und eine Plattform für alle
   Traceure sein.
 
 # Build settings
 theme: minima
-
-
