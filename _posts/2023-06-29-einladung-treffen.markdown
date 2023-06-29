@@ -14,7 +14,7 @@ Wir laden ein zum großen Treffen:
 
 Damit wir Räume und Verpflegung organisieren können, tragt euch für eine Teilnahme bitte bis zum **07.07.2023** in dieses Formular ein:
 
-https://forms.gle/jkqkvVGLV8QLrYJx5
+[https://forms.gle/jkqkvVGLV8QLrYJx5](https://forms.gle/jkqkvVGLV8QLrYJx5)
 
 Zwar ist das letzte offene Treffen der Initiative noch nicht lange her, aber unser Verteiler wächst stetig und die nächsten Schritte wollen geplant und umgesetzt werden. Genauso freuen wir uns, dass viele wichtige Themen rund um einen Verband debattiert werden und sehen, dass viele Fragen aktuell noch unbeantwortet sind.
 
