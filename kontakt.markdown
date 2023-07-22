@@ -6,7 +6,7 @@ permalink: /kontakt/
 
 # Wer sind wir?
 
-Wir sind das Orgatem (in alphabetischer Reihenfolge):
+Wir sind das Orgateam (in alphabetischer Reihenfolge):
 
 **Ben, Martin und Jan** (Berlin), **Chris** (Erfurt), **Jewgeni, Merlin und Olli** (Leipzig), **Lukas** (Gütersloh/München), **Maren** (Stuttgart), **Max** (Erlangen), **Sabine** (Eppingen), **Sören** (Plauen).
 
