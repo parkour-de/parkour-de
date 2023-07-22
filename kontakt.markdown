@@ -18,6 +18,7 @@ Wir sind das Orgateam (in alphabetischer Reihenfolge):
 - ParkourONE
 - Parkour Stuttgart e.V.
 - Twio X e.V. - Parkour Leipzig
+- Max Heckel
 
 Diese Auflistung ist (erst) in dem Moment wirklich relevant, in dem wir den Verband offiziell gründen wollen. Ein Verband braucht dafür **7** Mitglieder, als Parkourverband wollen wir aber die bundesweite Parkourlandschaft in allen ihren Facetten abbilden. Die Liste wird stetig ergänzt.
 
