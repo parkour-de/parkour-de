@@ -1,7 +1,5 @@
 ---
 layout: home
-titel: Inititative Parkour Deutschland
-permalink: /
 ---
 
 # Herzlich Willkommen
