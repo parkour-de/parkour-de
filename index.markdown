@@ -1,6 +1,7 @@
 ---
 layout: home
-titel: Deutscher Parkour Verband
+titel: Inititative Parkour Deutschland
+permalink: /
 ---
 
 # Herzlich Willkommen
