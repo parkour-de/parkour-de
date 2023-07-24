@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "1. Treffen: Kennenlernen"
-date:   2022-04-28 18:00:00 +0200
+title: "1. Treffen: Kennenlernen"
+date: 2022-04-28 18:00:00 +0000
 categories: verbandstreffen
 ---
+
 #### Notizen
 
 Dieser Text ist das Protokoll des 1. Verbandstreffens (online).
 Anwesend waren 13 Personen aus 8 Städten
-
 
 #### Tagesordnung
 
@@ -33,29 +33,32 @@ zugeordnet werden müssen.
 Zu den Hauptaufgaben des Verbands sollen gehören:
 
 Interessenvertretung nach außen:
+
 - Fördermittel einwerben
 - Politische Vertretung / Lobby
 - Zentraler Ansprechpartner in den Strukturen des Sports
 
 Vertretung nach innen:
+
 - Vernetzung der Parkourszene
 - Förderung und Unterstützung von bestehenden Vereinen und losen Gruppen
 - Austausch von Expertise
-    - Lehrgänge und Fortbildungen
-    - Ausbildung von Trainierenden, perspektivisch mit Erwerb einer DOSB Lizenz
-    - Organisation von Veranstaltungen (bspw. Jams)
-    - Bündelung aller Angebote, Veranstaltungen, Ansprechpartner etc.
+  - Lehrgänge und Fortbildungen
+  - Ausbildung von Trainierenden, perspektivisch mit Erwerb einer DOSB Lizenz
+  - Organisation von Veranstaltungen (bspw. Jams)
+  - Bündelung aller Angebote, Veranstaltungen, Ansprechpartner etc.
 
 Rückfragen wurden bezüglich der **Finanzierung des Verbands** gestellt:
+
 - in erster Linie ist der Verband, wie auch ein Verein, ein gemeinnütziges Projekt und soll auch ein Gegengewicht
-zu kommerziellen Angeboten darstellen – der Verband soll die Interessen der Parkourszene vertreten und
-einzelne Vereine mit Expertise unterstützen
+  zu kommerziellen Angeboten darstellen – der Verband soll die Interessen der Parkourszene vertreten und
+  einzelne Vereine mit Expertise unterstützen
 - zudem können auch in einem e.V. Personen eingestellt werden, sollte der Umfang der Aufgaben das erfordern
 - symbolische Mitgliedsbeiträge können in der ersten Phase erhoben werden, je nach Größe und
-Mitgliederanzahl der Vereine
-
+  Mitgliederanzahl der Vereine
 
 Weitere Rückfrage wurde bezüglich der **Weiterbildung von Trainerinnen und Trainern** gestellt:
+
 - in Erfurt und Leipzig sind bereits Konzepte erstellt worden
 - sinnvoll wäre eine Vernetzung mit Gruppen, die ebenfalls erste Trainerinnen und Trainer ausgebildet haben
 - auch die Zusammenarbeit mit kommerziellen Gruppen wie „ParkourONE“ supter, sollten die Gruppen für gemeinsame Projekte offen sein
@@ -67,7 +70,7 @@ Konsens.
 Laut der Berichte der Teilnehmenden gab es bereits mehrere Anläufe, einen Dachverband zu gründen. Vor 5 Jahren
 wurde in Hamburg ein Treffen initiiert, welches als Resultat - statt der Gründung eines Verbands - eine engere
 Kooperation mit den Turnern befürwortete. Die Anwesenden sprechen sich stattdessen für eine Struktur aus, die aus der Mitte der
-Szene erwächst und nicht durch eine andere Sportart aufgesetzt wird. 
+Szene erwächst und nicht durch eine andere Sportart aufgesetzt wird.
 
 Ein reiner Parkour-Verband würde den Wissenstransfer und die Kommunikation innerhalb der Parkourgruppen verbessern (Kommunikationsplattformen, Cloud).
 Neben den Berichten der eigenen Erfahrungen aus den letzten Jahren wurden weitere Fragen bezüglich der Kosten für die Mitgliedsvereine, die Voraussetzungen für das Gründen eines Dachverbandes und die Möglichkeiten Fördermittel
@@ -75,14 +78,15 @@ zu erhalten, gestellt.
 
 - die Kosten hängen davon ab, welche Aufgaben der Verband tatsächlich übernehmen soll
 - in der Anfangsphase würden die Mitgliedsvereine voraussichtlich einen symbolischen Mitgliedsbeitrag in
-Abhängigkeit der Anzahl ihrer Mitglieder leisten (vgl. Stadt-/Landessportbund)
+  Abhängigkeit der Anzahl ihrer Mitglieder leisten (vgl. Stadt-/Landessportbund)
 - die Gründung eines Dachverbandes setzt die Gründung eines Landesverbandes voraus. Zu Beginn würde ein
-e.V. gegründet werden, welche als Mitglieder juristische Personen (e.V.) aufnimmt
+  e.V. gegründet werden, welche als Mitglieder juristische Personen (e.V.) aufnimmt
 - die Beantragung der Fördermittel hängt von den eigentlichen Aufgaben und vom Satzungszweck ab. Ansonsten
-sind der Werdegang und das Prozedere wie in einem e.V.
+  sind der Werdegang und das Prozedere wie in einem e.V.
 
 **zu TOP 4 und 5**\
 Es wurde kurz umrissen, wie der Gründungsprozess weitergeht. Es wäre bis zum nächsten Treffen zu klären:
+
 - Wer will aktiv mitarbeiten, wer möchte mitmachen, wer informiert bleiben?
 - Wie können weitere Personen/Gruppen eingeladen werden?
 - Wann findet das nächste Treffen statt?
@@ -94,7 +98,7 @@ gehen also vorerst weiter an alle. Für die aktive Vorbereitung (e.g. Satzung) d
 delegiert, Interessierte können sich gerne beteiligen.
 
 Die Anwesenden wollten noch einmal im eigenen Kreis der bekannten Gruppen nach Interessierten und
-Ansprechpartner*innen suchen, die am nächsten Treffen teilnehmen möchten. Die offizielle Kommunikation wird über
+Ansprechpartner\*innen suchen, die am nächsten Treffen teilnehmen möchten. Die offizielle Kommunikation wird über
 E-Mail stattfinden,
 
 Das nächste Treffen wird als hybrides Treffen während der Jam in Erfurt (OpenAirfurt) zwischen dem 10. -12.06.2022
@@ -102,6 +106,7 @@ stattfinden. Ein genauer Tag / eine genaue Uhrzeit wird noch bekanntgegeben. Inf
 finden unter: ![Open Airfurt](https://parkour-erfurt.de/pages/open_airfurt.php)
 
 Zusätzliche weitere Jams wurden für potentielle Treffen und zur weiteren Vernetzung angesprochen:
+
 - Treffen in Plauen (Termin folgt)
 - Jam und Competition in Münster (23./24.07.2022)
 - X Dream Jam Leipzig (19.-21.08.2022)

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "5. Treffen: Wie geht es weiter?"
-date: 2023-05-24 18:00:00 +0200
+title: "Vorstellung der Zwischenergebnisse"
+date: 2023-05-24 18:00:00 +0000
 categories: verbandstreffen
 ---
 

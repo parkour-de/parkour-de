@@ -3,9 +3,7 @@ layout: home
 titel: Deutscher Parkour Verband
 ---
 
-# Herzlich Willkommen
-
-Auf der Hompage der Initiative Parkour Deutschland, ein Zusammenschluss aus Vereinen, Unternehmen und Privatpersonen, welcher sich für die Gründung eines deutschlandweit agierenden Dachverbands einsetzt, der den Parkoursport in allen seinen Faszetten gegenüber der Öffentlichkeit vertritt.
+Herzlich Willkommen auf der Hompage der Initiative Parkour Deutschland, ein Zusammenschluss aus Vereinen, Unternehmen und Privatpersonen, welcher sich für die Gründung eines deutschlandweit agierenden Dachverbands einsetzt, der den Parkoursport in allen seinen Faszetten gegenüber der Öffentlichkeit vertritt.
 
 ## Aktueller Stand
 

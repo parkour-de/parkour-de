@@ -1,17 +1,18 @@
 ---
 layout: post
-title:  "3. Treffen: Die Technik"
-date:   2022-08-17 18:00:00 +0200
+title: "Fehlerhafte Technik"
+date: 2022-08-17 18:00:00 +0000
 categories: verbandstreffen
 ---
-### Notizen 
+
+### Notizen
 
 **Aufgrund von technischen Problemen wurde das Treffen verfrüht beendet**
 
 Das heutige Treffen sollte vor Allem der Frage dienen, wie es konkret weitergeht. Unser Plan war es, dass
 Ideen für die Satzung gesammelt werden und wir dann in kleineren Gruppen in eine intensive und produktive Arbeit gehen
 
-Drei konkrete Punkte sind für die Satzung besonders diskussionswürdig: 
+Drei konkrete Punkte sind für die Satzung besonders diskussionswürdig:
 
 1. Satzungszweck
 2. Mitgliedsformen
@@ -26,15 +27,13 @@ auswirkt, die als Personen eingetreten sind.
 
 Die Beiträge sind auch ein heikles Thema. Hier schwanken die Meinungen ganz stark zwischen "Ohne Geld kann das nichts werden" und
 "ich würde kein Geld für eine Mitgliedschaft ausgeben wollen". Hier muss noch geschaut werden, was zumutbar ist, welche Ausgaben auf
-den Verband zukommen und wie viel Geld uns das am Ende wert ist. 
+den Verband zukommen und wie viel Geld uns das am Ende wert ist.
 
 ### Das Ergebnis
 
-Wir haben viel besprochen, aber konnten uns auf keine konkreten Ergebnisse zum Thema Satzung einigen - vor Allem aufgrund der technischen 
+Wir haben viel besprochen, aber konnten uns auf keine konkreten Ergebnisse zum Thema Satzung einigen - vor Allem aufgrund der technischen
 Probleme. Als Ergebnis des Treffens wurde aber festgehalten, dass wir erstmal mehr in die Öffentlichkeitsarbeit gehen.
 Besonders die **Leitlinien** des Verbandes müssen ausgearbeitet werden, damit wir mehr Akteure aus der Szene davon überzeugen können sich
 zu beteiligen
 
 Das nächste Treffen findet am 07.09.2022 statt
-
-
