@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Herzlich Willkommen
 ---
 
 # Herzlich Willkommen
