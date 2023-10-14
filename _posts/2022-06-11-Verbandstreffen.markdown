@@ -3,6 +3,7 @@ layout: post
 title: "DCSV: Expertise von Außen"
 date: 2022-06-11 18:00:00 +0000
 categories: verbandstreffen
+author: Merlin Szymanski
 ---
 
 #### Notizen

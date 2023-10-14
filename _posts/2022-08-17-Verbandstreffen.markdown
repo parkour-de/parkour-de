@@ -3,6 +3,7 @@ layout: post
 title: "Fehlerhafte Technik"
 date: 2022-08-17 18:00:00 +0000
 categories: verbandstreffen
+author: Merlin Szymanski
 ---
 
 ### Notizen

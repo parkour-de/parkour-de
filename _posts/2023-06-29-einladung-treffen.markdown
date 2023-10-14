@@ -3,6 +3,7 @@ layout: post
 title: "Einladung nach Erfurt"
 date: 2023-06-29 14:00:00 +0000
 categories: einladung
+author: Merlin Szymanski
 ---
 
 # Einladung nach Erfurt

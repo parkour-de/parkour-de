@@ -19,3 +19,8 @@ Es wird im Oktober 2023 (online) und November 2023 (in Person) noch Treffen zur 
 Wir wollen die Parkourszene in allen ihren Facetten abbilden! Um den Deutschen Parkourverband e.V. zu gründen benötigen wir lediglich **7** Mitglieder, haben aber den Anspruch die deutsche Parkourlandschaft in voller Breite abzubilden. Wenn du dabei sein möchtest, dann melde dich bei uns!
 
 {%- include supporters.html  -%}
+
+## Presse
+
+- [TAZ: Auf die Barrikaden](https://taz.de/Parkour-Szene-in-Deutschland/!5944678/)
+- [Thüringer Allgemeine: Sprung in die Zukunft](https://www.thueringer-allgemeine.de/sport/Lokalsport-uebersicht/sprung-in-die-zukunft-meilenstein-fuer-die-deutsche-parkour-szene-in-erfurt-id239054379.html)

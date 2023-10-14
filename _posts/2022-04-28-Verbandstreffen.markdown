@@ -3,6 +3,7 @@ layout: post
 title: "1. Treffen: Kennenlernen"
 date: 2022-04-28 18:00:00 +0000
 categories: verbandstreffen
+author: Merlin Szymanski
 ---
 
 #### Notizen

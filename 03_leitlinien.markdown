@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Unsere Leitlinien
+title: Leitlinien
 permalink: /leitlinien/
 ---
 

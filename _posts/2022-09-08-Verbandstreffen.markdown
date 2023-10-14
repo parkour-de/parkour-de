@@ -3,6 +3,7 @@ layout: post
 title: "Debatte über die Leitlinien"
 date: 2022-09-07 18:00:00 +0000
 categories: verbandstreffen
+author: Merlin Szymanski
 ---
 
 ### Notizen
