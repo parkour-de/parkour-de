@@ -6,4 +6,10 @@ categories: verbandstreffen
 author: Merlin Szymanski
 ---
 
-Diese Seite kommt bald!
+Das Treffen war als informeller Austausch
+mit der Community gedacht, der Fokus lag
+auf dem Vorstellen des Verbands und dem
+Einholen von Fragen und Feedback aus der
+Community
+
+Ein kurzes Protokoll wurde dennoch erstellt, es ist [hier](/docs/assets/protocols/20231005_parkourverband_QandA.pdf) zu finden
