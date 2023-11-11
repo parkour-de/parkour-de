@@ -5,6 +5,8 @@ instagram_username: parkour_deutschland
 whatsapp_group: CFBk17YVZ5G7jDn3uGc836
 github_username: parkour-de
 
+show_excerpts: true
+
 description: >- # this means to ignore newlines until "baseurl:"
   Wir sind eine Initiative zur Gründung eines Parkour Dachverbandes in Deutschland.
   Dieser soll die Interessen der Parkourszene vertreten und eine Plattform für alle

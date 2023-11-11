@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Vorstellung der Zwischenergebnisse"
+title: "Zwischenergebnisse"
 date: 2023-05-24 18:00:00 +0000
 categories: verbandstreffen
 author: Merlin Szymanski
 ---
+
+Nach längerer Zeit der individuellen Arbeit fanden wir uns endlich wieder in einer größeren Runde zusammen um den Zwischenstand zusammenzufassen und
+die nächsten Schritte zu besprechen. Ein großes Kennlerntreffen wurde angesetzt und die die Arbeitsweise in der großen Runde besprochen.
 
 # Neue Strukturen
 

@@ -6,7 +6,7 @@ categories: verbandstreffen
 author: Merlin Szymanski
 ---
 
-Am 22.07.2023 trafen wir uns im Congress Center der Messe Erfurt zur Beratung über die nächsten Schritte zur Gründung des Dachverbands. Anwesend waren Vorsitzende verschiedener Parkourvereine aus Berlin, Erfurt, Leipzig, Stuttgart, Nürnberg, Plauen und Gütersloh sowie Funktionäre der größten deutschen Parkournetzwerke ParkourONE und Parkour.org.
+Wir haben uns getroffen! Im Congress Center der Messe Erfurt kamen wir zur Beratung über die nächsten Schritte zur Gründung des Dachverbands zusammen. Anwesend waren Vorsitzende verschiedener Parkourvereine aus Berlin, Erfurt, Leipzig, Stuttgart, Nürnberg, Plauen und Gütersloh sowie Funktionäre der größten deutschen Parkournetzwerke ParkourONE und Parkour.org.
 
 ![Abschlussbild Verbandstreffen](/docs/assets/images/20230722_dpv_meeting.jpeg)
 

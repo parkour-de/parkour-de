@@ -1,17 +1,14 @@
 ---
 layout: post
-title: "Fehlerhafte Technik"
+title: "Nächste Schritte"
 date: 2022-08-17 18:00:00 +0000
 categories: verbandstreffen
 author: Merlin Szymanski
 ---
 
-### Notizen
+Das heutige Treffen stand im Licht der Frage, wie es konkret weitergeht. Ideen für eine Satzung müssen gesammelt werden und Arbeitsgruppen für intensive und produktive Arbeit zusammenkommen.
 
-**Aufgrund von technischen Problemen wurde das Treffen verfrüht beendet**
-
-Das heutige Treffen sollte vor Allem der Frage dienen, wie es konkret weitergeht. Unser Plan war es, dass
-Ideen für die Satzung gesammelt werden und wir dann in kleineren Gruppen in eine intensive und produktive Arbeit gehen
+### Wichtige Baustellen
 
 Drei konkrete Punkte sind für die Satzung besonders diskussionswürdig:
 

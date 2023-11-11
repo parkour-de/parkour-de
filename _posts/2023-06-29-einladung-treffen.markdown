@@ -6,9 +6,8 @@ categories: einladung
 author: Merlin Szymanski
 ---
 
-# Einladung nach Erfurt
-
-Wir laden ein zum großen Treffen:
+Wir laden zum großen Vernetzungstreffen nach Erfurt ein. Ziel des Treffens ist es die Akteure der Initiative in Person zusammenzubringen und sich über einen längeren
+Zeitraum intensiv mit den Themen der Verbandsgründung auseinander zu setzen. Um Voranmeldung wird gebeten.
 
 - **in Erfurt am 22.07.2023**
 - von ca. 10:00 - 18:00 Uhr

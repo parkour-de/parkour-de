@@ -1,15 +1,12 @@
 ---
 layout: post
-title: "1. Treffen: Kennenlernen"
+title: "Auftakt"
 date: 2022-04-28 18:00:00 +0000
 categories: verbandstreffen
 author: Merlin Szymanski
 ---
 
-#### Notizen
-
-Dieser Text ist das Protokoll des 1. Verbandstreffens (online).
-Anwesend waren 13 Personen aus 8 Städten
+Es geht los! Ein weiterer Anlauf für die Gründung eines deutschlandweit agierenden Dachverbandes für den Parkoursport im Lande. Dieser Eintrag gibt das Protokoll unseres ersten Treffens wieder. Anwesend bei diesem ersten Treffen waren 13 Personen aus 8 Städten
 
 #### Tagesordnung
 

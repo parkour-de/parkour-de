@@ -6,10 +6,6 @@ categories: verbandstreffen
 author: Merlin Szymanski
 ---
 
-Das Treffen war als informeller Austausch
-mit der Community gedacht, der Fokus lag
-auf dem Vorstellen des Verbands und dem
-Einholen von Fragen und Feedback aus der
-Community
+Auch wenn die Initiative ihren Weg geht, gibt es viele Fragen aus der Community. In einem neuen Format, suchen wir den informellen Austausch mit der Community. Hier wollen wir die Vorstellungen des Verbands und seine Akteure präsentieren und Fragen, Feedback und Kritik aus der Community entgegennehmen.
 
 Ein kurzes Protokoll wurde dennoch erstellt, es ist [hier](/docs/assets/protocols/20231005_parkourverband_QandA.pdf) zu finden

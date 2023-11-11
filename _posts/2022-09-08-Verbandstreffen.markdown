@@ -1,16 +1,13 @@
 ---
 layout: post
-title: "Debatte über die Leitlinien"
+title: "Unsere Leitlinien"
 date: 2022-09-07 18:00:00 +0000
 categories: verbandstreffen
 author: Merlin Szymanski
 ---
 
-### Notizen
-
-Das Treffen heute stand im Licht der Leitlinien. Als Hauptaugenmerk soll in der nahen Zukunft erstmal die Öffentlichkeitsarbeit stehen und
-das Verbreiten der Idee und der Inititaive innerhalb der Szene. Viele Traceure haben noch keine Vorstellung davon was ein Parkourverband
-für sie überhaupt bedeutet.
+Im heutigen Treffen wurde vorwiegend über die Leitlinien des Verbands gesprochen. Viele Traceure haben noch keine Vorstellungen davon was ein Parkourverband
+für sie überhaupt bedeutet. Das Hauptaugenmerk soll in der nahen Zukunft auf der Öffentlichkeitsarbeit liegen um die Initiative und die Idee dahinter innerhalb der Szene zu verbreiten.
 
 Zusätzlich besteht natürlich das Problem, dass man uns als Initiative nicht so einfach findet, sodass die Idee der eigenen Website nun doch
 auf der Liste der Prioritäten nach oben gesetzt wurde.

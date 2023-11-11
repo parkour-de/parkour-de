@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "DCSV: Expertise von Außen"
+title: "Expertise von Außen"
 date: 2022-06-11 18:00:00 +0000
 categories: verbandstreffen
 author: Merlin Szymanski
 ---
 
-#### Notizen
-
-Wir hatten den Präsidenten des DCSV als Gast um uns von seinen Erfahrungen einer Verbandsgründung zu berichten.
+Um generelle Fragen zu Sportverbänden loszuwerden, war der Präsident des DCSV (Deutscher Calisthenics und Streetlifting Verband e.V.) als Gast da. Das gab uns die Gelegenheit von seinen Erfahrungen einer Verbandsgründung zu profitieren.
 
 #### Protokoll
 
