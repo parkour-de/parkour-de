@@ -27,7 +27,7 @@ Der Verband kann und soll bei den verschiedenen Fördertöpfen einen Einblick ge
 ### Vermitteln und Ansprechen
 
 Als Ansprechpartner für den Parkoursport in Deutschland kann der Dachverband Kooperationen eingehen und auf Konflikte innerhalb der internationalen Szene reagieren,
-welche einzelne Vereine nur schwer auf ihre Schultern nehmen können. Das ist kann zum Beispiel sein eine Position zum Thema Olympiade zu entwickeln - Positionen,
+welche einzelne Vereine nur schwer auf ihre Schultern nehmen können. Das kann zum Beispiel sein eine Position zum Thema Olympiade zu entwickeln - Positionen,
 die aktuell vor allem von einzelnen Gruppen und Sportlern getragen werden. <br> Für Anfragen zum Thema Workshop und Shows kann der Verband die Anfragen an die
 Communities vor Ort und die Szene im Allgemeinen weiterleiten und bei Bedarf bei Fragen der Versicherung oder der Ausgestaltung beratend zur Seite stehen.
 
