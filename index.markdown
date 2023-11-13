@@ -9,7 +9,7 @@ Herzlich Willkommen auf der Hompage der Initiative Parkour Deutschland, ein Zusa
 
 ## Aktueller Stand
 
-Es wird im Oktober 2023 (online) und November 2023 (in Person) noch Treffen zur Vorbereitung und Debatte geben. Die Gründung des Verbands soll perspektivisch im **ersten Halbjahr 2024** erfolgen
+Die Gründung des Verbands soll perspektivisch im **ersten Halbjahr 2024** erfolgen
 
 ![Ein Gruppenfoto der Teilnehmerinnen und Teilnehmer an der Verbandstagung vom 22.07.2023 in Erfurt](/docs/assets/images/20230722_initiative.jpg)
 <small style="color:grey">22.07.2023/Teilnehmer\*innen der Verbandstagung. Foto: Carlos Primke</small>
@@ -19,6 +19,11 @@ Es wird im Oktober 2023 (online) und November 2023 (in Person) noch Treffen zur 
 Wir wollen die Parkourszene in allen ihren Facetten abbilden! Um den Deutschen Parkourverband e.V. zu gründen benötigen wir lediglich **7** Mitglieder, haben aber den Anspruch die deutsche Parkourlandschaft in voller Breite abzubilden. Wenn du dabei sein möchtest, dann melde dich bei uns!
 
 {%- include supporters.html  -%}
+
+## Treffen und Termine
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FBerlin&showNav=1&showCalendars=0&showTabs=0&showPrint=0&showDate=1&showTz=0&mode=MONTH&src=NTg1NjQ2YTFhZDFhNTBlMTAzNmE5NTBiYTM3MGI2N2FjNzExYTg5MTkzNjYzZjkzZDFkNTYyOGFhMTJiNjgxY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26" style="border-width:0" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+<br>
 
 ## Presse
 
