@@ -5,11 +5,7 @@ title: Herzlich Willkommen
 
 # Herzlich Willkommen
 
-Herzlich Willkommen auf der Hompage der Initiative Parkour Deutschland, ein Zusammenschluss aus Vereinen, Unternehmen und Privatpersonen, welcher sich für die Gründung eines deutschlandweit agierenden Dachverbands einsetzt, der den Parkoursport in allen seinen Facetten gegenüber der Öffentlichkeit vertritt.
-
-## Aktueller Stand
-
-Die Gründung des Verbands soll perspektivisch im **ersten Halbjahr 2024** erfolgen
+Herzlich Willkommen auf der Hompage der Initiative Parkour Deutschland, ein Zusammenschluss aus Vereinen, Unternehmen und Privatpersonen, welcher sich für die Gründung eines deutschlandweit agierenden Dachverbands einsetzt, der den Parkoursport in allen seinen Facetten gegenüber der Öffentlichkeit vertritt. Die Gründung des Verbandes soll perspektivisch **ende 2024** erfolgen
 
 ![Ein Gruppenfoto der Teilnehmerinnen und Teilnehmer an der Verbandstagung vom 22.07.2023 in Erfurt](/docs/assets/images/20230722_initiative.jpg)
 <small style="color:grey">22.07.2023/Teilnehmer\*innen der Verbandstagung. Foto: Carlos Primke</small>

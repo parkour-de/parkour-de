@@ -1,7 +1,25 @@
 ---
-layout: default
+layout: default_with_img
 ---
 
-<div class="home">
-  {{ content }}
+<div style="height: 100vh;
+  background-image: url('/assets/Header_BG.jpg');
+  background-attachment: fixed;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+">
 </div>
+<a class="absolute_center" href="{{'/kontakt' | relative_url}}">
+  <div class="btn p-2">Jetzt mitmachen</div>
+</a>
+
+<main class="page-content" aria-label="Content">
+  <div class="wrapper">
+    <div class="home">
+      {{ content }}
+    </div>
+  </div>
+</main>
+
