@@ -3,38 +3,133 @@
 .center{
     text-align: center;
 }
+/*
+Member style modified from
+https://github.com/sedadna/sedadna.github.io/blob/main/assets/css/main.scss
+*/
+.member {
+    width: 8rem;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.square {
+    display: inline-block;
+    width: 6rem;
+    height: 6rem;
+    margin: auto;
+    background-color: #fff;
+}
+.square img{
+    opacity: 1;
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+.square:hover img{
+    opacity: .5;
+}
+.avatar {
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+.avatar img{
+    border-radius: 50%;
+    width: 6rem;
+    height: 6rem;
+    object-fit: cover;
+    display: block;
+    margin: auto;
+}
+.member p {
+    text-align: center;
+    font-size: 0.7rem;
+    margin-bottom: 0;
+    display: block;
+}
+.member p:first-of-type {
+    font-size: 1rem;
+    color: #00b8b0;
+    font-weight: bold;
+}
 </style>
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-    <div>
-        <h3 class="center">Vereine und Institutionen</h3>
-        <ul>
-            <li>Erster Parkourverein Vogtland e.V.</li>
-            <li>Fußgänger e.V.</li>
-            <li>IF Urban Sports e.V. Chemnitz</li>
-            <li>Parkour Berlin e.V.</li>
-            <li>Parkour Eppingen e.V.</li>
-            <li>Parkour Erfurt e.V.</li>
-            <li>Parkour Leipzig - Twio X e.V.</li>
-            <li>Parkour.org Nürnberg e.V.</li>
-            <li>Parkour Regensburg e.V.</li>
-            <li>Parkour Stuttgart e.V.</li>
-            <li>Parkour Gütersloh (Stadt Gütersloh)</li>
-        </ul>
-    </div>
 
-    <div>
-        <h3 class="center">Unternehmen</h3>
-        <ul>
-            <li>ParkourONE</li>
-            <li>Parkour.org</li>
-        </ul>
+<div class="avatar">
+    <div class ="member">
+        <div class="square"><a href="https://www.fussgaenger.org/" target="_blank"><img src="{{ '/assets/members/fußgänger.jpg' | relative_url }}" alt="Avatar" /></a></div>
+        <p>Berlin</p>
+        <p>Fußgänger e.V.</p>
     </div>
-
-    <div>
-        <h3 class="center">Menschen</h3>
-        <ul>
-            <li>Max Heckl (Erlangen)</li>
-        </ul>
+    <div class ="member">
+        <div class="square"><a href="https://www.parkourberlin.de/" target="_blank"><img src="{{ '/assets/members/berlin.jpg' | relative_url }}" alt="Avatar" /></a></div>
+        <p>Berlin</p>
+        <p>Parkour Berlin e.V.</p>
+    </div>
+    <div class ="member">
+        <div class="square"><a href="https://berlin.parkourone.com/" target="_blank"><img src="{{ '/assets/members/pkone.jpg' | relative_url }}" alt="Avatar" /></a></div>
+        <p>Berlin</p>
+        <p>ParkourONE</p>
+    </div>
+    <div class ="member">
+        <div class="square"><a href="https://www.if-urbansports.de" target="_blank"><img src="{{ '/assets/members/chemnitz.jpg' | relative_url }}" alt="Avatar" /></a></div>
+        <p>Chemnitz</p>
+        <p>IF Urban Sports e.V.</p>
+    </div>
+    <div class ="member">
+        <div class="square"><a href="https://sportverein-eschbach.de/abteilungen/parkour/" target="_blank"><img src="{{ '/assets/members/eschbach.jpg' | relative_url }}" alt="Avatar" /></a></div>
+        <p>Eschbach</p>
+        <p>SV Eschbach 1967 e.V.<br>Abteilung Parkour</p>
+    </div>
+    <div class ="member">
+        <div class="square"><a href="https://www.parkour-erfurt.de/" target="_blank"><img src="{{ '/assets/members/erfurt.jpg' | relative_url }}" alt="Avatar" /></a></div>
+        <p>Erfurt</p>
+        <p>Parkour Erfurt e.V.</p>
+    </div>
+    <div class ="member">
+        <div class="square"><a href="https://wiesenjam.wordpress.com/" target="_blank"><img src="{{ '/assets/members/erlangen.jpg' | relative_url }}" alt="Avatar" /></a></div>
+        <p>Erlangen</p>
+        <p>Parkour Erlangen</p>
+    </div>
+    <div class ="member">
+        <div class="square"><a href="https://www.parkour-eppingen.de/" target="_blank"><img src="{{ '/assets/members/eppingen.jpg' | relative_url }}" alt="Avatar" /></a></div>
+        <p>Eppingen</p>
+        <p>Parkour Eppingen e.V.</p>
+    </div>
+    <div class ="member">
+        <div class="square"><a href="https://parkour-guetersloh.de" target="_blank"><img src="{{ '/assets/members/gütersloh.jpg' | relative_url }}" alt="Avatar" /></a></div>
+        <p>Gütersloh</p>
+        <p>Parkour Gütersloh</p>
+    </div>
+    <div class ="member">
+        <div class="square"><a href="https://www.twio-x.de/" target="_blank"><img src="{{ '/assets/members/leipzig.jpg' | relative_url }}" alt="Avatar" /></a></div>
+        <p>Leipzig</p>
+        <p>Twio X e.V.</p>
+    </div>
+    <div class ="member">
+        <div class="square"><a href="https://www.parkour-nuernberg.de/" target="_blank"><img src="{{ '/assets/members/parkour-org.jpg' | relative_url }}" alt="Avatar" /></a></div>
+        <p>Nürnberg</p>
+        <p>Parkour.org Nürnberg e.V.</p>
+    </div>
+    <div class ="member">
+        <div class="square"><a href="https://www.parkour-regensburg.de/" target="_blank"><img src="{{ '/assets/members/regensburg.jpg' | relative_url }}" alt="Avatar" /></a></div>
+        <p>Regensburg</p>
+        <p>Parkour Regensburg e.V.</p>
+    </div>
+    <div class ="member">
+        <div class="square"><a href="https://parkour-stuttgart.de/" target="_blank"><img src="{{ '/assets/members/stuttgart.jpg' | relative_url }}" alt="Avatar" /></a></div>
+        <p>Stuttgart</p>
+        <p>Parkour Stuttgart e.V.</p>
+    </div>
+    <div class ="member">
+        <div class="square"><a href="https://https://www.parkour-vogtland.de/" target="_blank"><img src="{{ '/assets/members/plauen.jpg' | relative_url }}" alt="Avatar" /></a></div>
+        <p>Plauen</p>
+        <p>Erster Parkourverein Vogtland e.V.</p>
+    </div>
+    <div class ="member">
+        <div class="square"><a href="https://https://www.parkour.org/" target="_blank"><img src="{{ '/assets/members/parkour-org.jpg' | relative_url }}" alt="Avatar" /></a></div>
+        <p>Wedel</p>
+        <p>Parkour.org</p>
     </div>
 </div>
