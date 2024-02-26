@@ -8,9 +8,9 @@ author: Merlin Szymanski
 
 Wir haben uns getroffen! Im Congress Center der Messe Erfurt kamen wir zur Beratung über die nächsten Schritte zur Gründung des Dachverbands zusammen. Anwesend waren Vorsitzende verschiedener Parkourvereine aus Berlin, Erfurt, Leipzig, Stuttgart, Nürnberg, Plauen und Gütersloh sowie Funktionäre der größten deutschen Parkournetzwerke ParkourONE und Parkour.org.
 
-![Abschlussbild Verbandstreffen](/docs/assets/images/20230722_dpv_meeting.jpeg)
+![Abschlussbild Verbandstreffen](/assets/blog/images/20230722_dpv_meeting.jpeg)
 
-Das vollständige Protokoll der Sitzung ist **hier** zu finden: [Protokoll Treffen Erfurt](/docs/assets/protocols/20230524_parkourverband_treffen_erfurt.pdf)
+Das vollständige Protokoll der Sitzung ist **hier** zu finden: [Protokoll Treffen Erfurt](/assets/blog/protocols/20230524_parkourverband_treffen_erfurt.pdf)
 
 ### Ergebnisse
 

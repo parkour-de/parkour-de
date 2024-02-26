@@ -13,7 +13,7 @@ Wir wollen die Szene in ganz Deutschland vertreten und haben daher den Anspruch 
 
 {%- include supporters.html  -%}
 
-![Ein Gruppenfoto der Teilnehmerinnen und Teilnehmer an der Verbandstagung vom 22.07.2023 in Erfurt](/docs/assets/images/20230722_initiative.jpg)
+![Ein Gruppenfoto der Teilnehmerinnen und Teilnehmer an der Verbandstagung vom 22.07.2023 in Erfurt](/assets/blog/images/20230722_initiative.jpg)
 <small style="color:grey">22.07.2023/Teilnehmer\*innen der Verbandstagung. Foto: Carlos Primke</small>
 
 ## Treffen und Termine

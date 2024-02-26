@@ -21,7 +21,7 @@ Dieses Treffen wurden die folgenden Punkte besprochen:
 - TOP 4 Vorstellung Website
 - TOP 5 Ausblick & Terminfindung Präsenztreffen
 
-Das vollständige Protokoll findet ihr [hier](/docs/assets/protocols/20230524_parkourverband_treffen.pdf)
+Das vollständige Protokoll findet ihr [hier](/assets/blog/protocols/20230524_parkourverband_treffen.pdf)
 
 ### Ergebnisse
 
