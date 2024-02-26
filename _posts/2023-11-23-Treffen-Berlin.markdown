@@ -6,6 +6,6 @@ categories: verbandstreffen
 author: Merlin Szymanski
 ---
 
-Die Initiative kommt in den Räumen von ParkourONE in Berlin zusammen und nimmt sich den Tag Zeit über die großen Themen zu beraten, die für die Verbandsgründung noch zu klären sind: Satzung, Finanzen und Vertretung nach Außen.
+Dieser Artikel ist in Arbeit
 
-Dieser Artikel wird nach dem Treffen aktualisiert :)
+Die Initiative kommt in den Räumen von ParkourONE in Berlin zusammen und nimmt sich den Tag Zeit über die großen Themen zu beraten, die für die Verbandsgründung noch zu klären sind: Satzung, Finanzen und Vertretung nach Außen.
