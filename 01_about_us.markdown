@@ -4,7 +4,9 @@ title: Über uns
 permalink: /about/
 ---
 
-Als Inititaive sind wir stark damit befasst, wie wir die Gründung des Verbands voranbringen können und die Community auf diesem Weg mit abholen. Auf dieser Seite wollen wir kurz vorstellen woran wir konkret arbeiten und was der aktuelle Stand der Arbeitsgruppen ist.
+Wir sind stark damit befasst, die Gründung des Deutschen Parkourverbands voran zu bringen und die Community auf diesem Weg mit abzuholen. Auf dieser Seite wollen wir uns als Team kurz vorstellen und erklären woran wir konkret arbeiten.
+
+{%- include team.html  -%}
 
 ## Arbeitsgruppen
 

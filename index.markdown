@@ -11,7 +11,7 @@ Herzlich Willkommen auf der Hompage des Deutschen Parkourverbands. Wir sind ein 
 
 Wir wollen die Szene in ganz Deutschland vertreten und haben daher den Anspruch die deutsche Parkourlandschaft in voller Breite abzubilden. Mitgliedsorganisationen der Initiative und kommende Gründungsmitglieder des Verbands sind hier aufgelistet. _Wenn du dabei sein möchtest, dann melde dich bei uns!_
 
-{%- include supporters.html  -%}
+{%- include members.html  -%}
 
 ![Ein Gruppenfoto der Teilnehmerinnen und Teilnehmer an der Verbandstagung vom 22.07.2023 in Erfurt](/assets/blog/images/20230722_initiative.jpg)
 <small style="color:grey">22.07.2023/Teilnehmer\*innen der Verbandstagung. Foto: Carlos Primke</small>
