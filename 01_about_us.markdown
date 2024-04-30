@@ -8,9 +8,9 @@ Der Parkoursport ist in den 1980er Jahren entstanden und hat durch seine Vielsei
 
 Die FIG (Federation International de Gymnastique) setzte es sich 2016 zum Ziel, das noch unstrukturierte Parkour in die Strukturen des Turnens zu integrieren, was jedoch innerhalb der internationalen Parkourgemeinschaft auf Widerstand stieß[^taz]. Schnell wurde erkannt, dass nur die Selbstorganisation eine Autonomie des Parkoursport bewahren kann. So entstand etwa [Parkour UK](https://parkour.uk/), welches mittlerweile umfassend mit der englischen Community zusammenarbeitet und mit der Leitidee _„serve, elevate and add value“_ erfolgreich als nationales Verwaltungsorgan für den Parkoursport in der UK auftritt. Auch [Parkour Earth](https://www.parkour.earth/) gründete sich mit dem Ziel der internationalen Vernetzung nationaler Verbände und Initiativen.
 
-**In Deutschland** gibt es noch diese Strukturen noch nicht, weswegen wir den DPV - den Deutschen Parkour Verband e.V. - gründen und als Sportfachverband für den Parkoursport in den Strukturen des DOSB etablieren wollen.
+**In Deutschland** gibt es diese Strukturen noch nicht, weswegen wir den DPV - den Deutschen Parkour Verband e.V. - gründen und als Sportfachverband für den Parkoursport in den Strukturen des DOSB etablieren wollen.
 
-Uns wichtig, dass Parkour von denjenigen gestaltet wird, die Parkour praktizieren, anleiten und leben. Unserer Ziele sind der transparente Aufbau von **Infrastruktur** für und um den Parkoursport, das Zusammenbringen der **Community** durch Vernetzung und Vermittlung sowie die **Förderung des Sports** mithilfe von Fördermitteln, Projekten und Veranstaltungen. Genaueres dazu findet man in unseren [Leitlinien](www.parkour-deutschland.de/leitlinien)
+Uns ist wichtig, dass Parkour von denjenigen gestaltet wird, die Parkour praktizieren, anleiten und leben. Unserer Ziele sind der transparente Aufbau von **Infrastruktur** für und um den Parkoursport, das Zusammenbringen der **Community** durch Vernetzung und Vermittlung sowie die **Förderung des Sports** mithilfe von Fördermitteln, Projekten und Veranstaltungen. Genaueres dazu findet man in unseren [Leitlinien](www.parkour-deutschland.de/leitlinien)
 
 Der DPV wird sich an einer klassischen Verbandsstruktur im Sport orientieren, jedoch einen besonderen Fokus und Rücksichtnahme auf die flexible Natur des Parkour legen.
 
