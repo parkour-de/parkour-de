@@ -6,7 +6,7 @@ permalink: /about/
 
 Der Parkoursport ist in den 1980er Jahren entstanden und hat durch seine Vielseitigkeit als junger Sport besonders in den frühen 2000er Jahren viel Aufmerksamkeit auf sich gezogen.
 
-Die FIG (Federation International de Gymnastique) setzte es sich 2016 zum Ziel, das noch unstrukturierte Parkour in die Strukturen des Turnens zu integrieren, was jedoch innerhalb der internationalen Parkourgemeinschaft auf Widerstand stieß[^taz]. Schnell wurde erkannt, dass nur die Selbstorganisation eine Autonomie des Parkoursport bewahren kann. So entstand etwa [Parkour UK](https://parkour.uk/), welches mittlerweile umfassend mit der englischen Community zusammenarbeitet und mit der Leitidee _„serve, elevate and add value“_ erfolgreich als nationales Verwaltungsorgan für den Parkoursport in der UK auftritt. Auch [Parkour Earth](https://www.parkour.earth/) gründete sich mit dem Ziel der internationalen Vernetzung nationaler Verbände und Initiativen.
+Die FIG (Federation International de Gymnastique) setzte es sich 2016 zum Ziel, das noch unstrukturierte Parkour in die Strukturen des Turnens zu integrieren, was jedoch innerhalb der internationalen Parkourgemeinschaft auf Widerstand stieß[^taz]. Schnell wurde erkannt, dass nur die Selbstorganisation eine Autonomie des Parkoursport bewahren kann. So entstand etwa [Parkour UK](https://parkour.uk/), welches mittlerweile umfassend mit der englischen Community zusammenarbeitet und mit der Leitidee _„serve, elevate and add value“_[^pkuk] erfolgreich als nationales Verwaltungsorgan für den Parkoursport in der UK auftritt. Auch [Parkour Earth](https://www.parkour.earth/) gründete sich mit dem Ziel der internationalen Vernetzung nationaler Verbände und Initiativen.
 
 **In Deutschland** gibt es diese Strukturen noch nicht, weswegen wir den DPV - den Deutschen Parkour Verband e.V. - gründen und als Sportfachverband für den Parkoursport in den Strukturen des DOSB etablieren wollen.
 
@@ -55,3 +55,4 @@ Des Weiteren kann man unseren Gründungsprozess über die im Footer aufgeführte
 **Quellen**
 
 [^taz]: [Artikel in der TAZ vom 23.11.2017](https://taz.de/Turnerbund-will-Parkour-schlucken/!5462436/)
+[^pkuk]: [Parkour UK](https://parkour.uk/what-we-do/)
