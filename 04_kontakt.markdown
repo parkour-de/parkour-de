@@ -14,14 +14,14 @@ Es gibt verschiedene Wege bei der Gründung des Verbandes mitzuwirken. Wir sind 
 
 ## Parkourvereine in Deutschland
 
-Aktuell erstellen wir eine Liste mit den **Parkourvereinen in Deutschland** und benötigen Hilfe. Bitte trage dich als Verein mit [diesem Formular](https://share.parkour-deutschland.de/apps/forms/s/GPbm9GsgnAfAtXFgRFSmXJ36) ein.
+Aktuell erstellen wir eine Liste mit den **Parkourgruppen und Vereinen in Deutschland** und benötigen Hilfe. Wenn ihr noch nicht in der Übersicht seid, dann tragt euch bitte als Gruppe, Abteilung oder Verein mit [diesem Formular](https://share.parkour-deutschland.de/apps/forms/s/GPbm9GsgnAfAtXFgRFSmXJ36) in unsere Übersicht ein.
 
 <table id="vereine-table">
   <thead>
     <tr>
       <th>Bundesland</th>
       <th>Stadt</th>
-      <th>Verein</th>
+      <th>Gruppe/Verein</th>
     </tr>
   </thead>
   <tbody>
