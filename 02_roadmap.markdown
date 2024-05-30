@@ -16,7 +16,7 @@ Entsprechend kann die Zeit bis zur Anerkennung als nationaler Fachverband in **4
 
 Aktuell befinden wir uns in der Phase 1. Als _Initiative_ zur Gründung des Deutschen Parkourverband e.V. haben wir die letzten zwei Jahre großen Wert darauf gelegt die **Community** bei jedem Schritt einzubinden und das Team in seiner Zusammensetzung so breit wie möglich aufzustellen.
 
-Der Fokus der Arbeit liegt in dieser Phase auf dem _Vernetzen der Szene_ und dem Schaffen eines _Überblicks_ über die vorhandenen Strukturen. Wir wollen Methoden entwickeln, die ein langfristiges gemeinsames Arbeiten innerhalb der Szene möglich machen. Mit zunehmendem Annähern an die Phase 2 finden bereits Gespräche mit anderen Akteuren des organisierten Sports statt, wie etwa dem Tschechischen Parkourverband, Parkour Earth oder verschiedenen Landessportbünden
+Der Fokus der Arbeit liegt in dieser Phase auf dem _Vernetzen der Szene_ und dem Schaffen eines _Überblicks_ über die vorhandenen Strukturen. Wir wollen Methoden entwickeln, die ein langfristiges gemeinsames Arbeiten innerhalb der Szene möglich machen. Mit zunehmendem Annähern an die Phase 2 finden bereits Gespräche mit anderen Akteuren des organisierten Sports statt, wie etwa dem Tschechischen Parkourverband, Parkour Earth oder verschiedenen Landessportbünden.
 
 Für diese Phase suchen wir immer nach Leuten, die im Team _mitarbeiten_ wollen. Zusätzlich bitten wir Vereine, Gruppen und Unternehmen sich in unsere [Übersicht](www.parkour-deutschland.de/kontakt) einzutragen.
 
@@ -31,11 +31,11 @@ Mit der Gründung des Verbands gehen wir in die Phase 2 über. Neben der Arbeit 
 
 Für die Parkourszene wird der Verband - neben der weiteren Vernetzung - vor allem einen _ideellen_ Vorteil bringen. Durch die Mitgliedschaft im Verband wird die Selbstvertretung des Sports gestärkt und über demokratische Strukturen die Mitsprache bei Ausrichtung, Besetzung und Auftreten des Verbands ermöglicht. Mit zunehmender Mitgliedergröße werden erste **Geldmittel** zur Verfügung stehen um **Projekte** und **Jams** innerhalb der Parkourszene auch finanziell zu unterstützen.
 
-Damit wir auf die 8 Landesverbände kommen, sollen in dieser Phase parallel zum Betrieb Parkour Landesverbände gegründet werden
+Damit wir auf die 8 Landesverbände kommen, sollen in dieser Phase parallel zum Betrieb Parkour Landesverbände gegründet werden.
 
 #### Kosten und Mitgliedschaft
 
-_Mitglieder_ im Verband können Vereine, Parkourschulen und Einzelpersonen werden. Die Mitgliedschaft im Verband Kostet für Vereine und Schulen **1 Euro** pro Mitglied und Jahr. Einzelpersonen zahlen **10 Euro**
+_Mitglieder_ im Verband können Vereine, Parkourschulen und Einzelpersonen werden. Die Mitgliedschaft im Verband Kostet für Vereine und Schulen **1 Euro** pro Mitglied und Jahr. Einzelpersonen zahlen **10 Euro** pro Jahr.
 
 ## Phase 3 - Landesverbände
 
@@ -52,7 +52,7 @@ Landesverbände haben einen größeren Einfluss auf die Sportart vor Ort und kö
 
 #### Kosten und Mitgliedschaft
 
-In dieser Phase wird die Mitgliedschaft im Verband Kosten in Höhe von etwa **3 Euro** pro Mitglied und Jahr verursachen. Dieses Geld wird zwischen Bundes und Landesverband aufgeteilt. Einzelpersonen zahlen **20 Euro**
+In dieser Phase wird die Mitgliedschaft im Verband Kosten in Höhe von etwa **3 Euro** pro Mitglied und Jahr verursachen. Dieses Geld wird zwischen Bundes und Landesverband aufgeteilt. Einzelpersonen zahlen **20 Euro** pro Jahr.
 
 ## Phase 4 - DOSB
 
@@ -69,4 +69,4 @@ Der Bundesverband ist für die Entwicklung des Sports selbst verantwortlich und 
 
 #### Kosten und Mitgliedschaft
 
-In dieser Phase wird die Mitgliedschaft im Verband Kosten in Höhe von etwa **3 Euro** pro Mitglied und Jahr verursachen. Dieses Geld wird zwischen Bundes und Landesverband aufgeteilt. Einzelpersonen zahlen **20 Euro**
+Die Kosten für die Mitgliedschaft bleiben die Gleichen wie in Phase 3.
