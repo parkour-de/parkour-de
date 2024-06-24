@@ -96,7 +96,8 @@ Aktuell erstellen wir eine Liste mit den **Parkourgruppen und Vereinen in Deutsc
     for (const state in bundeslaender) {
       if (bundeslaender.hasOwnProperty(state)) {
         const vereineCount = bundeslaender[state].vereine;
-        caption[state] = `Vereine/Gruppen: <b>${vereineCount}</b>`;
+        const mitglieder = bundeslaender[state].mitglieder;
+        caption[state] = `Vereine/Gruppen: <b>${vereineCount}</b><br />Mitglieder: <b>${mitglieder}</b>`;
       }
     }
 
