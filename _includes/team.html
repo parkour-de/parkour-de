@@ -1,94 +1,162 @@
 
 <style>
-.member img{
+.member {
+    cursor: pointer;
+}
+.member img {
     border: solid #fdba12 3px;
 }
+.modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    justify-content: center;
+    align-items: center;
+    z-index: 100;
+}
 
+.modal img {
+    max-width: 100vw;
+    max-height: 100vh;
+    width: auto;
+    height: auto;
+}
+
+.modal-content {
+    position: relative;
+    width: auto;
+    max-height: 100vh;
+    background: white;
+    overflow: hidden;
+    transform: rotateY(90deg);
+    transition: transform 0.6s ease-in-out;
+}
+
+.modal.show .modal-content {
+    transform: rotateY(0);
+}
 </style>
 
 <div class="avatar">
-    <div class ="member">
-        <div class="square"><a href="#" title="Ben Scheffler">
+    <div class="member" data-member="ben">
+        <div class="square"><a title="Ben Scheffler">
             <img src="{{ '/assets/team/ben.jpg' | relative_url }}" alt="Ein Foto von Ben Scheffler" /></a></div>
         <p>Ben</p>
         <p>Berlin</p>
     </div>
-    <div class ="member">
-        <div class="square"><a href="#" title="Björn Eberhardt">
+    <div class="member" data-member="bjoern">
+        <div class="square"><a title="Björn Eberhardt">
             <img src="{{ '/assets/team/bjoern.jpeg' | relative_url }}" alt="Ein Foto von Björn Eberhardt" /></a></div>
         <p>Björn</p>
         <p>Hamburg</p>
     </div>
-    <div class ="member">
-        <div class="square"><a href="#" title="Chris Konushevci">
+    <div class="member" data-member="chris">
+        <div class="square"><a title="Chris Konushevci">
             <img src="{{ '/assets/team/chris.jpg' | relative_url }}" alt="Ein Foto von Chris Konushevci" /></a></div>
         <p>Chris</p>
         <p>Erfurt</p>
     </div>
-    <div class ="member">
-        <div class="square"><a href="#" title="Dirk Hüfler">
+    <div class="member">
+        <div class="square"><a title="Dirk Hüfler">
             <img src="{{ '/assets/team/dirk.jpg' | relative_url }}" alt="Ein Foto von Dirk Hüfler" /></a></div>
         <p>Dirk</p>
         <p>Kiel</p>
     </div>
-    <div class ="member">
-        <div class="square"><a href="#" title="Dominik Schmoll">
+    <div class="member" data-member="domi">
+        <div class="square"><a title="Dominik Schmoll">
             <img src="{{ '/assets/team/domi.jpg' | relative_url }}" alt="Ein Foto von Dominik Schmoll" /></a></div>
         <p>Dominik</p>
         <p>Nürnberg</p>
     </div>
-    <div class ="member">
-        <div class="square"><a href="#" title="Eike Plenter">
+    <div class="member" data-member="eike">
+        <div class="square"><a title="Eike Plenter">
             <img src="{{ '/assets/team/eike.png' | relative_url }}" alt="Ein Foto von Eike Plenter" /></a></div>
         <p>Eike</p>
         <p>Hamburg</p>
     </div>
-    <div class ="member">
-        <div class="square"><a href="#" title="Jennifer Müller">
+    <div class="member">
+        <div class="square"><a title="Jennifer Müller">
             <img src="{{ '/assets/team/jennifer.jpg' | relative_url }}" alt="Ein Foto von Jennifer Müller" /></a></div>
         <p>Jennifer</p>
         <p>München</p>
     </div>
     <div class ="member">
-        <div class="square"><a href="#" title="Jewgeni Eisenberg">
+        <div class="square"><a title="Jewgeni Eisenberg">
             <img src="{{ '/assets/team/jewgeni.jpg' | relative_url }}" alt="Ein Foto von Jewgeni Eisenberg" /></a></div>
         <p>Jewgeni</p>
         <p>Leipzig</p>
     </div>
-    <div class ="member">
-        <div class="square"><a href="#" title="Lukas Schulte-Tickmann">
+    <div class="member" data-member="lukas">
+        <div class="square"><a title="Lukas Schulte-Tickmann">
             <img src="{{ '/assets/team/lukas.png' | relative_url }}" alt="Ein Foto von Lukas Schulte-Tickmann" /></a></div>
         <p>Lukas</p>
         <p>Gütersloh</p>
     </div>
-    <div class ="member">
-        <div class="square"><a href="#" title="Maren Baufeld">
+    <div class="member" data-member="maren">
+        <div class="square"><a title="Maren Baufeld">
             <img src="{{ '/assets/team/maren.jpg' | relative_url }}" alt="Ein Foto von Maren Baufeld" /></a></div>
         <p>Maren</p>
         <p>Stuttgart</p>
     </div>
-    <div class ="member">
-        <div class="square"><a href="#" title="Martin Wille">
+    <div class="member" data-member="martin">
+        <div class="square"><a title="Martin Wille">
             <img src="{{ '/assets/team/martin.jpg' | relative_url }}" alt="Ein Foto von Martin Wille" /></a></div>
         <p>Martin</p>
         <p>Berlin</p>
     </div>
-    <div class ="member">
-        <div class="square"><a href="#" title="Max Heckl">
+    <div class="member" data-member="max">
+        <div class="square"><a title="Max Heckl">
             <img src="{{ '/assets/team/max.jpg' | relative_url }}" alt="Ein Foto von Max Heckl" /></a></div>
         <p>Max</p>
         <p>Erlangen</p>
     </div>
-    <div class ="member">
-        <div class="square"><a href="#" title="Merlin Szymanski">
+    <div class="member">
+        <div class="square"><a title="Merlin Szymanski">
             <img src="{{ '/assets/team/merlin.jpg' | relative_url }}" alt="Ein Foto von Merlin Szymanski" /></a></div>
         <p>Merlin</p>
         <p>Leipzig</p>
     </div>
-    <div class ="member">
-        <div class="square"><a href="#" title="Sabine Haider">
+    <div class="member" data-member="sabine">
+        <div class="square"><a title="Sabine Haider">
             <img src="{{ '/assets/team/sabine.jpg' | relative_url }}" alt="Ein Foto von Sabine Haider" /></a></div>
         <p>Sabine</p>
         <p>Eppingen</p>
     </div>
 </div>
+<div class="modal" id="modal">
+    <div class="modal-content">
+        <img src="" alt="Member Info" id="modal-img" />
+    </div>
+</div>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const members = document.querySelectorAll('.member');
+        const modal = document.getElementById('modal');
+        const modalImg = document.getElementById('modal-img');
+        members.forEach(member => {
+            const name = member.dataset.member;
+            if (!name) {
+                member.style.cursor = 'default';
+                return;
+            }
+            member.addEventListener('click', function() {
+                modalImg.src = `/assets/steckbriefe/${name}.png`;
+                modal.style.display = 'flex';
+                requestAnimationFrame(() => {
+                    modal.classList.add('show');
+                });
+            });
+        });
+        const closeFn = function() {
+            modal.classList.remove('show');
+            modal.addEventListener('transitionend', () => {
+                modal.style.display = 'none';
+            }, { once: true });
+        }
+        modal.addEventListener('click', closeFn);
+    });
+</script>
