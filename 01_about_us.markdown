@@ -62,6 +62,8 @@ input[type=text], input[type=email], textarea {
 }
 </style>
 <form id="mitmachen-form">
+    <script async defer src="/assets/lib/altcha.js" type="module"></script>
+    <altcha-widget challengeurl="https://8bj.de/api/captcha" expire="120000" floating="top" workers="16"></altcha-widget>
     <label for="name">Name:</label><br>
     <input type="text" id="name" name="name" placeholder="David Belle" maxlength="100"><br><br>
     <label for="email">Email:</label><br>
