@@ -63,7 +63,7 @@ input[type=text], input[type=email], textarea {
 </style>
 <form id="mitmachen-form">
     <script async defer src="/assets/lib/altcha.js" type="module"></script>
-    <altcha-widget challengeurl="https://8bj.de/api/captcha" expire="120000" floating="top" workers="16"></altcha-widget>
+    <altcha-widget challengeurl="https://8bj.de/api/captcha" expire="120000" floating="top" workers="16" id="altcha" hidefooter="true" hidelogo="true"></altcha-widget>
     <label for="name">Name:</label><br>
     <input type="text" id="name" name="name" placeholder="David Belle" maxlength="100"><br><br>
     <label for="email">Email:</label><br>
@@ -94,11 +94,12 @@ document.getElementById('mitmachen-form').addEventListener('submit', function(ev
     event.preventDefault();
     const formData = new FormData(event.target);
     const data = {
-        name: formData.get('name') || 'ein Interessent',
-        email: formData.get('email') || 'noreply@8bj.de',
+        name: formData.get('name'),
+        email: formData.get('email'),
         ag: formData.get('ag'),
         kompetenzen: formData.get('kompetenzen'),
-        fragen: formData.get('fragen')
+        fragen: formData.get('fragen'),
+        altcha: formData.get('altcha')
     };
 
     fetch('https://8bj.de/api/verband/mitmachen', {
@@ -108,7 +109,13 @@ document.getElementById('mitmachen-form').addEventListener('submit', function(ev
         },
         body: JSON.stringify(data)
     })
-    .then(response => response.json())
+    .then(response => {
+        if (response.status === 402) {
+            document.querySelector('#altcha').reset();
+            throw 'Bitte noch einmal drücken';
+        }
+        return response.json()
+    })
     .then(response => {
         if (response.message) {
             document.getElementById('response-message').innerText = response.message;
