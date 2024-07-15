@@ -52,6 +52,75 @@ Des Weiteren kann man unseren Gründungsprozess über die im Footer aufgeführte
 
 {%- include team.html  -%}
 
+#### Möchtest du auch zu unserem Team gehören?
+
+Du möchtest aktiv mitmachen? Erzähl uns kurz etwas über dich und wo du deine Kompetenz siehst.
+
+<style>
+input[type=text], input[type=email], textarea {
+  width: 100%;
+}
+</style>
+<form id="mitmachen-form">
+    <label for="name">Name:</label><br>
+    <input type="text" id="name" name="name" placeholder="David Belle" maxlength="100"><br><br>
+    <label for="email">Email:</label><br>
+    <input type="email" id="email" name="email" placeholder="info@davidbelle.net" maxlength="100"><br><br>
+    <label for="ag">Für welche AG interessierst du dich?</label><br>
+    <select id="ag" name="ag">
+        <option selected disabled>Bitte eine AG aus der Liste wählen</option>
+        <option value="bildung">Bildung, Forschung und Wissenschaft</option>
+        <option value="design">Logo & Corporate Design</option>
+        <option value="finanzen">Finanzen</option>
+        <option value="it">IT</option>
+        <option value="lizenzen">Lizenzen und Ausbildung</option>
+        <option value="oeffentlichkeit">Öffentlichkeitsarbeit</option>
+        <option value="satzung">Satzung</option>
+        <option value="wettkampf">Wettkampf</option>
+    </select><br><br>
+    <label for="kompetenzen">Was bringst du mit? (Kompetenzen, Erfahrungen, Referenzen)</label><br>
+    <textarea id="kompetenzen" name="kompetenzen" rows="7" cols="50" maxlength="100000"></textarea><br><br>
+    <label for="fragen">Was möchtest du uns sonst noch fragen?</label><br>
+    <textarea id="fragen" name="fragen" rows="5" cols="50" maxlength="100000"></textarea>
+    <button type="submit">Abschicken</button>
+</form>
+
+<p id="response-message"></p>
+
+<script>
+document.getElementById('mitmachen-form').addEventListener('submit', function(event) {
+    event.preventDefault();
+    const formData = new FormData(event.target);
+    const data = {
+        name: formData.get('name') || 'ein Interessent',
+        email: formData.get('email') || 'noreply@8bj.de',
+        ag: formData.get('ag'),
+        kompetenzen: formData.get('kompetenzen'),
+        fragen: formData.get('fragen')
+    };
+
+    fetch('https://8bj.de/api/verband/mitmachen', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(data)
+    })
+    .then(response => response.json())
+    .then(response => {
+        if (response.message) {
+            document.getElementById('response-message').innerText = response.message;
+        } else {
+            document.getElementById('response-message').innerText = 'Anfrage erfolgreich abgeschickt!';
+        }
+    })
+    .catch(error => {
+        document.getElementById('response-message').innerText = 'Fehler beim Abschicken der Anfrage: ' + error;
+    });
+});
+</script>
+
+
 **Quellen**
 
 [^taz]: [Artikel in der TAZ vom 23.11.2017](https://taz.de/Turnerbund-will-Parkour-schlucken/!5462436/)
