@@ -7,6 +7,9 @@
   <meta name="description" content="The homepage of the german parkour association">
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  {%- if page.form == true -%}
+  <link rel="stylesheet" href="{{ "/api-client/form.css" | relative_url }}">
+  {%- endif -%}
   {%- feed_meta -%}
   <link rel="preconnect" href="https://rsms.me/">
   <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
