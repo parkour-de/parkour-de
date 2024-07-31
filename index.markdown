@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Herzlich Willkommen
+hidden: true
 ---
 
 # Herzlich Willkommen
