@@ -7,7 +7,17 @@ form: true
 ---
 
 <script src="utils.js"></script>
-
+<style>
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 10px; /* Adjust the gap as needed */
+}
+.grid div {
+  text-align: center;
+}
+</style>
 <div class="container">
   <form id="registerForm">
     <div class="form-group">
@@ -38,6 +48,45 @@ form: true
         <option value="government">government - This could be a government agency, a ministry, a city, a state, a country, etc.</option>
         <option value="robot">robot - A robot is a computer program that is running on a server.</option>
       </select>
+      <p>Choose from the list or click on one of the images below:</p>
+      <div class="grid">
+        <div onclick="document.getElementById('type').value = 'user'">
+          <img alt="user" src="./assets/type/user.webp"> user
+        </div>
+        <div onclick="document.getElementById('type').value = 'athlete'">
+        <img alt="user" src="./assets/type/athlete.webp"> athlete
+        </div>
+        <div onclick="document.getElementById('type').value = 'coach'">
+        <img alt="user" src="./assets/type/coach.webp"> coach
+        </div>
+        <div onclick="document.getElementById('type').value = 'team'">
+        <img alt="user" src="./assets/type/team.webp"> team
+        </div>
+        <div onclick="document.getElementById('type').value = 'group'">
+        <img alt="user" src="./assets/type/group.webp"> group
+        </div>
+        <div onclick="document.getElementById('type').value = 'association'">
+        <img alt="user" src="./assets/type/association.webp"> association
+        </div>
+        <div onclick="document.getElementById('type').value = 'freelancer'">
+        <img alt="user" src="./assets/type/freelancer.webp"> freelancer
+        </div>
+        <div onclick="document.getElementById('type').value = 'company'">
+        <img alt="user" src="./assets/type/company.webp"> company
+        </div>
+        <div onclick="document.getElementById('type').value = 'school'">
+        <img alt="user" src="./assets/type/school.webp"> school
+        </div>
+        <div onclick="document.getElementById('type').value = 'government'">
+        <img alt="user" src="./assets/type/government.webp"> government
+        </div>
+        <div onclick="document.getElementById('type').value = 'robot'">
+        <img alt="user" src="./assets/type/robot.webp"> robot
+        </div>
+        <div onclick="document.getElementById('type').value = 'admin'">
+        <img alt="user" src="./assets/type/admin.webp"> admin
+        </div>
+      </div>
     </div>
     <button type="submit" class="btn">Register</button>
   </form>
