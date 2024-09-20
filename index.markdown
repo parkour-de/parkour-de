@@ -17,7 +17,9 @@ Wir wollen die Szene in ganz Deutschland vertreten und haben daher den Anspruch 
 ![Ein Gruppenfoto der Teilnehmerinnen und Teilnehmer an der Verbandstagung vom 22.07.2023 in Erfurt](/assets/blog/images/20230722_initiative.jpg)
 <small style="color:grey">22.07.2023/Teilnehmer\*innen der Verbandstagung. Foto: Carlos Primke</small>
 
-## Presse
+## Presse und Medien
 
 - [TAZ: Auf die Barrikaden](https://taz.de/Parkour-Szene-in-Deutschland/!5944678/)
 - [Thüringer Allgemeine: Sprung in die Zukunft](https://www.thueringer-allgemeine.de/sport/Lokalsport-uebersicht/sprung-in-die-zukunft-meilenstein-fuer-die-deutsche-parkour-szene-in-erfurt-id239054379.html)
+- Gründungsmitglied Ben Scheffler (Berlin) bei den [Stadtathleten Folge 1](https://www.kivvon.com/de/stadthleten/pc-aus-parkour-an-parkour-pionier-ben-scheffler-stadthleten-folge-1)
+- Interview mit Gründungsmitglied Dominik Schmoll (Nürnberg) im Podcast "Sportstunde" auf [Spotify](https://open.spotify.com/episode/39qvm0OeihL9LGUGujq9Pj?si=sHPiw77STZqG1ehXpXQRMA&nd=1&dlsi=80098d908bec4f74)
