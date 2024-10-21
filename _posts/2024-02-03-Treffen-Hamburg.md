@@ -3,12 +3,10 @@ layout: post
 title: "Arbeitstreffen in Hamburg"
 date: 2024-02-03 8:00:00 +0000
 categories: verbandstreffen
-author: Merlin Szymanski
+author: Chris Konushevci
 ---
 
-Die erste Tagung im neuen Jahr 2024 in Präsenz und die insgesamt dritte Präsenztagung fand in der Parkourhalle **Die Halle** in der schönen Hafen- und Hansestadt
-Hamburg statt. Unsere Tagesordnung gut gefüllt. Wir haben unter anderem über die
-folgenden Themen gesprochen:
+Die erste Tagung im neuen Jahr 2024 in Präsenz und die insgesamt dritte Präsenztagung fand in der Parkourhalle [**DIE HALLE**](https://www.diehalle.hamburg/) in der schönen Hafen- und Hansestadt Hamburg statt. Unsere Tagesordnung gut gefüllt. Wir haben unter anderem über die folgenden Themen gesprochen:
 
 - Satzung: Stand der Arbeit und To-Dos bis zum nächsten Treffen
 - Impulsvortrag zum Thema *Rechtliche Grundlagen und Informationen zum Vorstand*
