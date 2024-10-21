@@ -6,7 +6,7 @@ categories: verbandstreffen
 author: Chris Konushevci
 ---
 
-Voransicht: Bei unserem ersten Q&A gab es bereits viele Fragen und Anmerkungen aus der Community. Für uns war das Event so erfolgreich, dass wir uns entschlossen haben, ein weiteres zu organisieren. Auch dieses Mal konnten wir Interessierten Einblicke in unsere Arbeitsweise gewähren und sogar einige Personen zur aktiven Unterstützung mit an Bord holen.
+Bei unserem ersten Q&A gab es bereits viele Fragen und Anmerkungen aus der Community. Für uns war das Event so erfolgreich, dass wir uns entschlossen haben, ein weiteres zu organisieren. Auch dieses Mal konnten wir Interessierten Einblicke in unsere Arbeitsweise gewähren und sogar einige Personen zur aktiven Unterstützung mit an Bord holen.
 
 Auf der Tagesordnung standen die folgenden Punkte:
 
