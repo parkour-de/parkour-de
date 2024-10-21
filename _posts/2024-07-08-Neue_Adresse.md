@@ -10,10 +10,10 @@ Wir freuen uns der Community unsere offizielle Adresse mitzuteilen.
 
 Ab sofort erreicht ihr uns für alle Anliegen und Briefe im [Haus des Engagements Hamburg](https://hde-hamburg.org/) unter der folgenden Adresse: 
 
-Deutscher Parkourverband 
-c/o betahaus
-Haus des Engagements
-Eifflerstraße 43
+Deutscher Parkourverband \
+c/o betahaus \
+Haus des Engagements \
+Eifflerstraße 43 \
 22769 Hamburg
 
 Der neue Verbandssitz wird in Zukunft sowohl als Postanschrift, als auch für Tagungen genutzt. Schreibt uns gerne oder sendet uns eure Anliegen postalisch an unsere neue Adresse. 
