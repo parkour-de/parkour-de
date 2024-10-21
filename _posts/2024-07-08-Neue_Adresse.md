@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wir haben eine offizielle Anschrift"
+title: "Verbandssitz im Betahaus Hamburg"
 date: 2024-07-08 19:00:00 +0000
 categories: updates
 author: Chris Konushevci

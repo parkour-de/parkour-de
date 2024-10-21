@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arbeitstreffen in Regensburg"
+title: "3. Arbeitstreffen in Regensburg"
 date: 2024-05-04 8:00:00 +0000
 categories: verbandstreffen
 author: Chris Konushevci

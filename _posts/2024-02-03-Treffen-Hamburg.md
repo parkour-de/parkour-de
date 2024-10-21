@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arbeitstreffen in Hamburg"
+title: "2. Arbeitstreffen in Hamburg"
 date: 2024-02-03 8:00:00 +0000
 categories: verbandstreffen
 author: Chris Konushevci
