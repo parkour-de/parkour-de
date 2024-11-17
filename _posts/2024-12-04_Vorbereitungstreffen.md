@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Vorbereitungstreffen zur Gründungsversammlung"
-date: 2024-12-04 19:00:00
+date: 2024-11-04 19:00:00
 categories: updates
 author: Maren Baufeld
 ---
 
-Am Montag, den 04.12.2024 fand das Vorbereitungstreffen zur Gründungsversammlung unseres Parkourverbands statt. Das Treffen und vor allem die Gründung sind ein bedeutender Meilenstein auf dem Weg zur offiziellen Anerkennung und Strukturierung unserer Sportart Parkour in Deutschland.
+Am Montag, den 04.11.2024 fand das Vorbereitungstreffen zur Gründungsversammlung unseres Parkourverbands statt. Das Treffen und vor allem die Gründung sind ein bedeutender Meilenstein auf dem Weg zur offiziellen Anerkennung und Strukturierung unserer Sportart Parkour in Deutschland.
 
 Nach einer kurzen Vorstellung der Anwesenden habe wir die Ziele und Visionen des Verbands und dessen Gründung nochmals kurz erläutert. Eines der vorgestellten Ziele ist die Anerkennung durch den Deutschen Olympischen Sportbund (DOSB) bis spätestens 2028, um Parkour als Sportart in Deutschland nachhaltig zu etablieren.
 
