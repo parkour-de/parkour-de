@@ -77,6 +77,7 @@ input[type=text], input[type=email], textarea {
         <option value="it">IT</option>
         <option value="lizenzen">Lizenzen und Ausbildung</option>
         <option value="oeffentlichkeit">Öffentlichkeitsarbeit</option>
+        <option value="parkourparks">Parkour-Parks</option>
         <option value="satzung">Satzung</option>
         <option value="wettkampf">Wettkampf</option>
     </select><br><br>
