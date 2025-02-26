@@ -1,6 +1,6 @@
 ---
 layout: page_no_toc
-title: Mitmachen
+title: Kontakt
 permalink: /kontakt/
 ---
 
@@ -10,7 +10,7 @@ Es gibt verschiedene Wege bei der Gründung des Verbandes mitzuwirken. Wir sind 
 
 1. Trete unserer [WhatsApp Community](https://chat.whatsapp.com/{{site.whatsapp_group| cgi_escape | escape }}) bei. Dort werden wir Fragen klären und direkter kommunizieren!
 2. Aboniere unseren [Emailverteiler](https://newsletter.8bj.de/subscription/form). Über diesen werden wir die Termine und Protokolle von öffentlichen Treffen schicken und dich über relevante Entscheidungen und Meilensteine informieren.
-3. Du willst mithelfen? Schreibe uns eine [Email](mailto:info@parkour-deutschland.de)
+3. Du willst mithelfen? Schreibe uns eine [Email](https://parkour-deutschland.de/about/#möchtest-du-auch-zu-unserem-team-gehören)
 
 ## Parkourvereine in Deutschland
 

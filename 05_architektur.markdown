@@ -14,7 +14,7 @@ Umsetzung von Parkouranlagen unterstützen und beraten?
 Oder ihr sucht ein erfahrenes Planungsbüro das die Planung oder Umsetzung übernehmen kann?
 
 Wir helfen euch mit unserer Erfahrung weiter!
-[Schreibt uns eine Mail](https://parkour-deutschland.de/kontakt/)
+[Schreibt uns eine Mail](https://parkour-deutschland.de/about/#möchtest-du-auch-zu-unserem-team-gehören)
 
 Wir haben ein Netzwerk an erfahrenen und qualifizierten Planungsbüros und Experten, die euch bei eurem Projekt helfen können.
 
@@ -27,4 +27,4 @@ Teilweise arbeiten wir sogar Hauptberuflich in Planungs- und Landschaftsarchitek
 
 Wir helfen euch gerne!
 Schreibt uns einfach:
-[Hier klicken](https://parkour-deutschland.de/kontakt/)
+[Hier klicken](https://parkour-deutschland.de/about/#möchtest-du-auch-zu-unserem-team-gehören)
