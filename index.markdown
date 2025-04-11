@@ -6,11 +6,11 @@ hidden: true
 
 # Herzlich Willkommen
 
-Herzlich Willkommen auf der Hompage des Deutschen Parkourverbands. Wir sind ein Zusammenschluss aus Vereinen, Unternehmen und Privatpersonen welche sich für die Gründung eines deutschlandweit agierenden Dachverbands einsetzt, der den Parkoursport in allen seinen Facetten gegenüber der Öffentlichkeit vertritt. Die Gründung des Verbandes erfolgte am **16.11.2024**. Aktuell warten wir auf die Eintragung des Verbands im Vereinsregister.
+Herzlich Willkommen auf der Hompage des Deutschen Parkourverband e.V. Wir sind ein Zusammenschluss aus Vereinen, Unternehmen und Privatpersonen, der den Parkoursport in allen seinen Facetten gegenüber der Öffentlichkeit vertritt. Die Gründung des Verbandes erfolgte am **16.11.2024**. Seit dem **14.03.2025** sind wir beim Registergericht Hamburg als gemeinnütziger Verein eingetragen.
 
 ## Gesichter der Bewegung
 
-Wir wollen die Szene in ganz Deutschland vertreten und haben daher den Anspruch die deutsche Parkourlandschaft in voller Breite abzubilden. Mitgliedsorganisationen der Initiative und kommende Gründungsmitglieder des Verbands sind hier aufgelistet. _Wenn du dabei sein möchtest, dann melde dich bei uns!_
+Wir wollen die Szene in ganz Deutschland vertreten und haben daher den Anspruch die deutsche Parkourlandschaft in voller Breite abzubilden. Mitgliedsorganisationen und kommende Gründungsmitglieder des Verbands sind hier aufgelistet. _Wenn du dabei sein möchtest, dann melde dich bei uns!_
 
 {%- include members.html  -%}
 
